@@ -3,4 +3,4 @@ import './style.css';
 
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
-appDiv.innerHTML = `<h1>TypeScript ssss</h1>`;
+appDiv.innerHTML = `<h1>TypeScript asdad 撒打算</h1>`;
